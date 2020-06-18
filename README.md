@@ -1,5 +1,5 @@
 # Java-Roadmap
-[![license](https://img.shields.io/github/license/peaceiris/actions-gh-pages.svg)](https://github.com/Shvana/C-RoadMap/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/peaceiris/actions-gh-pages.svg)](https://github.com/Shvana/Java_RoadMap/blob/master/README.md)
 [![Java](https://img.shields.io/badge/Java-1.8.0-blue)](https://www.java.com/en/download/)
 [![JDK](https://img.shields.io/badge/JDK-14.0.1-orange)](https://openjdk.java.net/projects/jdk/14/)
 [![Support me on Patreon][badge_patreon]][patreon]  [![PayPal][badge_paypal]][paypal-donations]
