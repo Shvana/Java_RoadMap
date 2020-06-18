@@ -1,6 +1,6 @@
 package tutorial;
 
-import java.util.Scanner;
+import java.util.Scanner;                                     //Gets the Scanner class from the package (library) java.util
 
 public class variables_keyboard_Input {
     public static void main(String[] args){
@@ -8,9 +8,9 @@ public class variables_keyboard_Input {
         int juicePerGlass;
         int totalJuice;
 
-        Scanner keyboard = new Scanner(System.in);
+        Scanner keyboard = new Scanner(System.in);          //Sets up things so the program can accept keyboard input
 
-        numberOfGlass = keyboard.nextInt();
+        numberOfGlass = keyboard.nextInt();                //Reads one whole number from the keyboard
         juicePerGlass = keyboard.nextInt();
 
         totalJuice = numberOfGlass * juicePerGlass;
