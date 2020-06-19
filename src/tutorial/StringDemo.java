@@ -6,7 +6,7 @@ public class StringDemo {
         int position = sentence.indexOf("hard");
         System.out.println(sentence);
         System.out.println("\"012345678901234567890123");
-        System.out.println("The world \"hard\" stars at index" + position);
+        System.out.println("The world \"hard\" stars at index " + position);
         sentence = sentence.substring(0, position) + "easy!";
         sentence = sentence.toUpperCase();
         System.out.println("The changed string is: ");
