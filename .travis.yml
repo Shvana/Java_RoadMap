@@ -5,4 +5,3 @@ language: java
 jdk:
   - openjdk14
   - openjdk13
-  - openjdk8
