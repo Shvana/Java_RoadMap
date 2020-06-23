@@ -4,4 +4,4 @@ language: java
 
 jdk: openjdk14
 
-script: ant main
+script: mvn clean install
